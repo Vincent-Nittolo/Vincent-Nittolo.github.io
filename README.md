@@ -4,7 +4,9 @@ Overview:
 I decided to focus on Android, and the topics I used were data storage, game development, motion sensors, and google notification service. 
 The app I made is called Semester, and it is a mon-catcher game. 
 
-Getting started: To make a similar app, you will need to install the latest version of android studio from google, then edit the gradle files to allow the local database to work properly. You can learn more about that here https://developer.android.com/training/data-storage/room
+Getting started: To make a similar app, you will need to install the latest version of android studio from google, then edit the gradle files to allow the local database to work properly. You can learn more about that here 
+
+https://developer.android.com/training/data-storage/room
 
 Step-by-step coding instructions. This is how the files are structured, with the databse and page files bundled. <img width="304" height="478" alt="image" src="https://github.com/user-attachments/assets/d029503e-5e4f-41bc-bc3c-6f81372a90b7" />
 
@@ -32,4 +34,6 @@ Raw: All of the audio files are located in this raw folder.
 
 Further Discussion/Conclusions: I think the main strategy when working on an app is to organize it so it is scaled more easily. Much of my work on the project was redoing older sections of code that I wrote not knowing that it will need to be improved on later, or when it restricted later functionality. 
 
-See Also Section: I think the best tutorials can be found here in the lecture notes, as you know the code was written by a professional (the proffessor). https://dulimarta-teaching.netlify.app/cs357/lecture-notes.html
+See Also Section: I think the best tutorials can be found here in the lecture notes, as you know the code was written by a professional (the proffessor). 
+
+https://dulimarta-teaching.netlify.app/cs357/lecture-notes.html
