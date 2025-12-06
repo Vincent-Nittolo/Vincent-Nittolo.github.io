@@ -1,6 +1,8 @@
 # Vincent-Nittolo.github.io
 
-Overview: Description of the platform focus area you studied as well as the demo app your reader will be implementing as they follow your tutorial. Use screenshots and/or video clips liberally to help your reader understand the proposed functionality of the demo app.
+Overview: 
+I decided to focus on Android, and the topics I used were data storage, game development, motion sensors, and google notification service. 
+The app I made is called Semester, and it is a mon-catcher game. 
 
 Getting started: Describe the software development environment, the reader will need on his/her machine to complete your tutorial, including things like IDE version, dependencies, and jump off links on where to download, install tutorials, etc.
 
