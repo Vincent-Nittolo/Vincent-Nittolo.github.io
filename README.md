@@ -30,10 +30,6 @@ Raw: All of the audio files are located in this raw folder.
 
 <img width="186" height="166" alt="image" src="https://github.com/user-attachments/assets/acfe7e0a-c441-4ba5-a16d-a0f61e4cb96f" />
 
+Further Discussion/Conclusions: I think the main strategy when working on an app is to organize it so it is scaled more easily. Much of my work on the project was redoing older sections of code that I wrote not knowing that it will need to be improved on later, or when it restricted later functionality. 
 
-
-This could be subdivided into multiple sections as you see fit, but basically this will be the “meat” of your tutorial. It will consist of code snippets, text discussing the code, figures / videos of perhaps concepts that are hard to describe in text / code. Make sure any code snippets are formatted well and readable. Readers should also be able to copy/paste code snippets in your tutorial if they are attempting to follow along in their code editor as they read.
-
-Further Discussion/Conclusions. Summary of your tutorial, including any other alternative approaches developers might pursue to implement the same functionality (e.g. third party components that can be used in lieu of the native features you have studied) related platform features the reader might want to refer to for further study, as well as a link to a github repo of your complete source code.
-
-See Also Section: In this final section of your tutorial, provide a list of references (with hyperlinks) to similar or related tutorials, particularly those tutorials that you found helpful in learning about your topic and preparing your own demo and code tutorial.
+See Also Section: I think the best tutorials can be found here in the lecture notes, as you know the code was written by a professional (the proffessor). https://dulimarta-teaching.netlify.app/cs357/lecture-notes.html
