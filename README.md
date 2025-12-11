@@ -37,3 +37,5 @@ Further Discussion/Conclusions: I think the main strategy when working on an app
 See Also Section: I think the best tutorials can be found here in the lecture notes, as you know the code was written by a professional (the proffessor). 
 
 https://dulimarta-teaching.netlify.app/cs357/lecture-notes.html
+
+https://docs.google.com/presentation/d/1HJUYwKcTg0lA98VmxLSDRVWVwCvIJRziQgOcCHs_Wsc/edit?usp=sharing
